@@ -3,7 +3,7 @@
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
-||.app.bugsnag.com^
+||app.bugsnag.com^
 
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
@@ -20,3 +20,5 @@
 ||ads.yahoo.com^
 ||udcm.yahoo.com^
 ||log.fc.yahoo.com^
+
+||appmetrica.yandex.ru^
