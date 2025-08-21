@@ -1,4 +1,6 @@
 ||afs.googlesyndication.com^
+||ads.googlesyndication.com^
+||click.googleanalytics.com^
 
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
